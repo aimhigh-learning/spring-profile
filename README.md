@@ -14,7 +14,6 @@ Build with maven
 2022-01-20 22:03:23.064  INFO 10188 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1005 (http)
 
 
-
 ### Reference Documentation
 For further reference, please consider the following sections:
 
